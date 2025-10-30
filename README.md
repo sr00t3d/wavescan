@@ -125,14 +125,14 @@ Before running WaveScan, make sure your system meets the following requirements:
 
 ## Print
 <p>
-  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011437976.jpeg?raw=true" width="300">
-  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011454351.jpeg?raw=true" width="300">
-  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011461758.jpeg?raw=true" width="300">
-  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011470235.jpeg?raw=true" width="300">
-  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011476711.jpeg?raw=true" width="300">
-  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011485824.jpeg?raw=true" width="300">
-  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011493943.jpeg?raw=true" width="300">
-  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011500954.jpeg?raw=true" width="300">
+  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011437976.jpeg?raw=true" width="500">
+  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011454351.jpeg?raw=true" width="500">
+  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011461758.jpeg?raw=true" width="500">
+  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011470235.jpeg?raw=true" width="500">
+  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011476711.jpeg?raw=true" width="500">
+  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011485824.jpeg?raw=true" width="500">
+  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011493943.jpeg?raw=true" width="500">
+  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011500954.jpeg?raw=true" width="500">
     
   and more
 
