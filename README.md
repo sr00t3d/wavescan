@@ -1,3 +1,5 @@
+<img src="https://github.com/sr00t3d/wavescan/blob/docs/322e87b1-3es2b-4791-b714-369e214e6c1.jpg?raw=true" width="700">
+
 WaveScan is a comprehensive web security scanner designed to help administrators, developers, and security.
 professionals perform vulnerability assessments and security scans on websites. It offers a wide range of scan types, from basic port scanning to advanced vulnerability and source code analysis, ensuring the safety and integrity of web applications.
 
@@ -123,14 +125,14 @@ Before running WaveScan, make sure your system meets the following requirements:
 
 ## Print
 <p>
-  <a href="https://raw.githubusercontent.com/percioandrade/wavescan/refs/heads/docs/wavescan-1.png"><img src="https://raw.githubusercontent.com/percioandrade/wavescan/refs/heads/docs/wavescan-1.png" width="300"></a>
-  <a href="https://raw.githubusercontent.com/percioandrade/wavescan/refs/heads/docs/wavescan-2.png"><img src="https://raw.githubusercontent.com/percioandrade/wavescan/refs/heads/docs/wavescan-2.png" width="300"></a>
-  <a href="https://raw.githubusercontent.com/percioandrade/wavescan/refs/heads/docs/wavescan-3.png"><img src="https://raw.githubusercontent.com/percioandrade/wavescan/refs/heads/docs/wavescan-3.png" width="300"></a>
-  <a href="https://raw.githubusercontent.com/percioandrade/wavescan/refs/heads/docs/wavescan-4.png"><img src="https://raw.githubusercontent.com/percioandrade/wavescan/refs/heads/docs/wavescan-4.png" width="300"></a>
-  <a href="https://raw.githubusercontent.com/percioandrade/wavescan/refs/heads/docs/wavescan-5.png"><img src="https://raw.githubusercontent.com/percioandrade/wavescan/refs/heads/docs/wavescan-5.png" width="300"></a>
-  <a href="https://raw.githubusercontent.com/percioandrade/wavescan/refs/heads/docs/wavescan-6.png"><img src="https://raw.githubusercontent.com/percioandrade/wavescan/refs/heads/docs/wavescan-6.png" width="300"></a>
-  <a href="https://raw.githubusercontent.com/percioandrade/wavescan/refs/heads/docs/wavescan-7.png"><img src="https://raw.githubusercontent.com/percioandrade/wavescan/refs/heads/docs/wavescan-7.png" width="300"></a>
-    <a href="https://raw.githubusercontent.com/percioandrade/wavescan/refs/heads/docs/wavescan-8.png"><img src="https://raw.githubusercontent.com/percioandrade/wavescan/refs/heads/docs/wavescan-8.png" width="300"></a>
+  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011437976.jpeg?raw=true" width="300">
+  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011454351.jpeg?raw=true" width="300">
+  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011461758.jpeg?raw=true" width="300">
+  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011470235.jpeg?raw=true" width="300">
+  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011476711.jpeg?raw=true" width="300">
+  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011485824.jpeg?raw=true" width="300">
+  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011493943.jpeg?raw=true" width="300">
+  <img src="https://github.com/sr00t3d/wavescan/blob/docs/1746011500954.jpeg?raw=true" width="300">
     
   and more
 
