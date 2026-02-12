@@ -1,6 +1,6 @@
 # WaveScan 🌊🔍
 
-Readme: [Portugûes](README.md)
+Readme: [Português](README.pt-br.md)
 
 <img src="https://github.com/sr00t3d/wavescan/blob/docs/322e87b1-3es2b-4791-b714-369e214e6c1.jpg?raw=true" width="700">
 
