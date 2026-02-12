@@ -80,7 +80,7 @@ Ajuste os módulos ativos e o idioma no arquivo config.sh:
 ## ⚠️ Disclaimer
 
 > [!WARNING]
-> Este software é fornecido "como está". Embora tenha sido amplamente testado em ambientes Dovecot, **sempre faça um backup completo** dos seus diretórios Maildir antes de executar qualquer script de conversão. O autor não se responsabiliza por qualquer perda de dados.
+> Este software é fornecido "tal como está". Certifique-se sempre de ter permissão explícita antes de analisar qualquer alvo. O autor não se responsabiliza por qualquer uso indevido, consequências legais ou impacto nos dados causados ​​por esta ferramenta.
 
 ## 📚 Detailed Tutorial
 
