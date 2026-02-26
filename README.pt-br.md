@@ -2,10 +2,10 @@
 
 Readme: [English](README.md)
 
-<img src="https://github.com/sr00t3d/wavescan/blob/docs/322e87b1-3es2b-4791-b714-369e214e6c1.jpg?raw=true" width="700">
-
-![License](https://img.shields.io/github/license/sr00t3d/bindfilter)
+![License](https://img.shields.io/github/license/sr00t3d/wavescan)
 ![Shell Script](https://img.shields.io/badge/shell-script-green)
+
+<img width="700" src="wavescan-cover.webp" />
 
 O **WaveScan** é um scanner de segurança web abrangente projetado para administradores, desenvolvedores e profissionais de segurança realizarem avaliações de vulnerabilidade completas. Ele oferece desde varreduras básicas de portas até análises avançadas de código-fonte e vulnerabilidades, garantindo a integridade de aplicações web.
 
